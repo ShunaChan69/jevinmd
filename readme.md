@@ -64,7 +64,7 @@ Choose your repo
 
 ```bash
 git clone https://github.com/rdculous/jevinmd
-cd jevin
+cd jevinmd
 npm i
 npm start
 ```
