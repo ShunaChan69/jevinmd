@@ -42,7 +42,7 @@ Simple WhatsApp Bot
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%rdculous%jevinmd)
 
-# get Session [session.data.json] 
+# get Session [seesion.data.json] 
 
 [![Run on Repl.it(for get Sessions )](https://repl.it/badge/github/quiec/whatsAlfa)](https://github.com/BOTCAHX/Session-Md)
 
@@ -64,7 +64,7 @@ Choose your repo
 
 ```bash
 git clone https://github.com/rdculous/jevinmd
-cd jevinmd
+cd jevin
 npm i
 npm start
 ```
@@ -166,9 +166,6 @@ conn.logger.level = 'debug'
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![adiwajshing/Baileys](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
-
-
-##### Base
 [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
 
 #### Pengembang Ulang
