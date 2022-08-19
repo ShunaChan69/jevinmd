@@ -42,7 +42,7 @@ Simple WhatsApp Bot
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%rdculous%jevinmd)
 
-# get Session [seesion.data.json] 
+# Get Session [session.data.json] 
 
 [![Run on Repl.it(for get Sessions )](https://repl.it/badge/github/quiec/whatsAlfa)](https://github.com/BOTCAHX/Session-Md)
 
