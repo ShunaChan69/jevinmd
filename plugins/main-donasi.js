@@ -8,8 +8,8 @@ let numberowner = global.numberowner
 let anu = `
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├ Dana : 081210283436
-├ Pulsa : 081210283436
+├ Dana : 089509952003
+├ Pulsa : 089509952003
 └────
 Berapapun donasi kalian akan sangat berarti 
 
