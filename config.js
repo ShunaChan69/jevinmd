@@ -1,31 +1,31 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6281210283436'] 
-global.mods = ['6281210283436'] 
-global.prems = ['6281210283436'] 
+global.owner = ['19047502362'] 
+global.mods = ['19047502362'] 
+global.prems = ['19047502362'] 
 
 //『 Info Owner 』 //
-global.nameowner = 'Jevin'
-global.numberowner = '6281210283436'
-global.telegram = 'https://t.me/fcshtt'
-global.github = 'https://github.com/rdculous'
-global.dana = '6281210283436'
-global.pulsa = '6281210283436'
-global.gopay = '6281210283436'
-global.shopeepay = '6281210283436'
+global.nameowner = 'Kanna Chan'
+global.numberowner = '19047502362'
+global.telegram = 'https://linktr.ee/whatsappbotz'
+global.github = 'https://linktr.ee/whatsappbotz'
+global.dana = '6289509952003'
+global.pulsa = '6289509952003'
+global.gopay = '6289509952003'
+global.shopeepay = '6289509952003'
 
 //『 Info Bot 』//
 global.namebot = 'Jevin Bot'
-global.gc = 'https://chat.whatsapp.com/I40Ya6pLUA888huVgq1FAa'
-global.web = 'https://webrdc.riddiculous.repl.co' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93'
+global.web = 'https://linktr.ee/whatsappbotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
-global.fotonya1 = 'https://telegra.ph/file/f2f6b909355e07d3bcebe.jpg'
-global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Jevin'
+global.fotonya1 = 'https://telegra.ph/file/fb193c8e2500165c9d749.jpg'
+global.lolkey = 'jokowi3periode' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'f241e27cf3a5' //ganti jadi apikey lu kalau expired
+global.wm = '© Kanna Chan'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
@@ -34,7 +34,7 @@ global.benar = 'Benar'
 global.salah = 'Salah'
 global.stiker_wait = '*Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Jevin Bot'
+global.author = '© Kanna Botz'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
@@ -66,17 +66,17 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
-  'http://restapi.frteam.xyz': 'apikeymu',
+  'http://restapi.frteam.xyz': 'PrllcW5B',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://zekais-api.herokuapp.com': 'pdOctp9C',
+  'https://api.lolhuman.xyz': 'jokowi3periode',
 }
 
 //『 RPG GAMES 』//
