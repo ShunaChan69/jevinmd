@@ -36,6 +36,6 @@ ${id}`)
     }
 }
 handler.help = ['hadis']
-handler.tags = ['islamic']
+handler.tags = ['islam']
 handler.command = /^(hadist?)$/i
 export default handler
